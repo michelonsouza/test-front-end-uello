@@ -1,6 +1,6 @@
-<p style="text-align: center;">
+<p style="text-align: center;" width="100%">
   <a href="https://uello.com.br"  target="blank">
-    <img src="/logo.svg" style="width: 250px;" />
+    <img src="./.github/logo.svg" width="250" style="width: 250px;" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ Basicamente, a vaga consiste em criar novas aplicações e manter as que ja exis
 - Não acreditar que a terra é plana (Não é um diferencial... mas ajuda)
 
 ##### Teste
-O candidato (palavra bonita essa né... fora do contexto político, claro) deve criar uma aplicação, o mais próximo possível do layout que esta [aqui](/layouts).
+O candidato (palavra bonita essa né... fora do contexto político, claro) deve criar uma aplicação, o mais próximo possível do layout que esta [aqui](/.github/layouts).
 
 Pode usar o `vue-cli` sem problemas.
 Utilize `bootstrap-vue` se possível.
@@ -49,4 +49,4 @@ Caso implemente o `mapa` prefira o `mapbox` colocando sua chave em seu `env loca
 VUE_APP_MAPBOX_KEY=
 ```
 
-Não se esqueça de inserir as demais chaves que utilizar no arquivo `.env.erxample`
+Não se esqueça de inserir as demais chaves que utilizar no arquivo `.env.example`
